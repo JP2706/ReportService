@@ -1,2 +1,2 @@
-# Tydzień 8/ Lekacja 15
+# Tydzień 8/Lekcja 15
 ReportService
